@@ -1,0 +1,21 @@
+{
+  "name": "nillegal-teal-it",
+  "displayName": "Teal It",
+  "description": "Theme based on Teal Color",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Teal It",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Teal It-color-theme.json"
+      }
+    ]
+  }
+}
